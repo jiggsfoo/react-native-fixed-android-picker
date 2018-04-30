@@ -1,6 +1,6 @@
 {
   "name": "react-native-fixed-android-picker",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A React Native Android module to work around the 'Android Picker not consistently firing onValueChange()' issue; see https://github.com/facebook/react-native/issues/15556#issuecomment-359478181 .",
   "main": "index.js",
   "scripts": {
